@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <campaignPreset version="0.50.0-SNAPSHOT">
 	<title>3 - Campaign Operations (StratCon - Beta)</title>
-	<description>This preset follows the rules outlined in campaign operations but with StratCon enabled, allowing you to play a single-player CamOps campaign against the bot. Like the Campaign Operations preset, not all CamOps systems have been transferred to MekHQ, so some bookkeeping may be necessary.</description>
+	<description>This preset follows the Campaign Operations rules with the StratCon system enabled, allowing single-player campaigns against the AI. While similar to the standard Campaign Operations preset, not all systems have been integrated, so some manual bookkeeping may be required.</description>
 	<date>3151-01-01</date>
 	<faction>MERC</faction>
 	<rankSystem>

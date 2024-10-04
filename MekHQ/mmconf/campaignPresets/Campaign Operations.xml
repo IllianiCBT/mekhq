@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <campaignPreset version="0.50.0-SNAPSHOT">
 	<title>4 - Campaign Operations</title>
-	<description>This preset is designed to follow the rules outlined in campaign operations. Please note that not all CamOps systems have been transferred to MekHQ, so some bookkeeping may be necessary.</description>
+	<description>Designed to adhere closely to the Campaign Operations rules, this preset does not include StratCon. Please note that some features are not yet fully integrated into MekHQ, so manual tracking might be necessary for certain rules.</description>
 	<date>3035-01-01</date>
 	<faction>MERC</faction>
 	<rankSystem>

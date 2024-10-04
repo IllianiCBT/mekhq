@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <campaignPreset version="0.50.0-SNAPSHOT">
 	<title>2 - Complete Experience (StratCon - Beta)</title>
-	<description>This preset represents the complete MekHQ experience, with nearly all options enabled and adjusted to provide a balanced, long-lasting campaign. It&apos;s perfect for long nights spent battling Princess using the StratCon ruleset but may be too much for newer players.</description>
+	<description>This preset offers the full MekHQ experience with nearly all options enabled. It provides a balanced and in-depth campaign, perfect for extended gameplay using the StratCon ruleset. However, it may be overwhelming for newer players due to its complexity.</description>
 	<date>3151-01-01</date>
 	<faction>MERC</faction>
 	<rankSystem>

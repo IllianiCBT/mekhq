@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <campaignPreset version="0.50.0-SNAPSHOT">
 	<title>5 - Tabula Rasa</title>
-	<description>This preset is a blank slate, with most options disabled, giving you the freedom to customize it exactly to your needs.</description>
+	<description>A blank slate with most options turned off, this preset gives you complete control to customize your gameplay. Ideal for those who want to build a tailored experience from the ground up.</description>
 	<date>3151-01-01</date>
 	<faction>MERC</faction>
 	<rankSystem>

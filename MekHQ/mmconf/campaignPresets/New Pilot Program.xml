@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <campaignPreset version="0.50.0-SNAPSHOT">
 	<title>1 - New Pilot Program (StratCon - Beta)</title>
-	<description>This preset is a lower difficulty version of the &apos;Complete Experience&apos; preset, offering an experience tailored for newer players or those who prefer an easier game. Most options are still enabled, providing the full MekHQ experience.</description>
+	<description>A beginner-friendly version of the "Complete Experience" preset, this option is designed for new players or those who prefer a more relaxed difficulty. Most features are still enabled, allowing you to enjoy the full MekHQ experience with an easier challenge.</description>
 	<date>3151-01-01</date>
 	<faction>MERC</faction>
 	<rankSystem>
